@@ -1,4 +1,4 @@
-1004041
-EN:There is a new improved version 1.04.041 of Vocappulary available in the Store, updating is recommended (enables broken online search/talk again).|New version!|https://www.microsoft.com/en-us/store/p/vocappulary/9wzdncrdmcqj
-DE:Es gibt eine neue, verbesserte Version 1.04.041 von Vocappulary im Store, aktualisieren ist empfohlen (ermöglicht Online Suche/Sprechen).|Neue Version!|https://www.microsoft.com/de-de/store/p/vocappulary/9wzdncrdmcqj
-HU:A Vocappulary új és javított 1.04.041-es verziója rendelkezésére áll a Store-ban, a program aktualizálása javasolt (online keresés/beszéd javítása).|Új verzió!|https://www.microsoft.com/hu-hu/store/p/vocappulary/9wzdncrdmcqj
+1004042
+EN:There is a new improved version 1.04.042 of Vocappulary available in the Store, updating is recommended (fix for Verbix format changes).|New version!|https://www.microsoft.com/en-us/store/p/vocappulary/9wzdncrdmcqj
+DE:Es gibt eine neue, verbesserte Version 1.04.042 von Vocappulary im Store, aktualisieren ist empfohlen (Fix für Verbix Formatierungsänderungen).|Neue Version!|https://www.microsoft.com/de-de/store/p/vocappulary/9wzdncrdmcqj
+HU:A Vocappulary új és javított 1.04.042-es verziója rendelkezésére áll a Store-ban, a program aktualizálása javasolt (Verbix formátum javítása).|Új verzió!|https://www.microsoft.com/hu-hu/store/p/vocappulary/9wzdncrdmcqj
